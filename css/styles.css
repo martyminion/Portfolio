@@ -1,3 +1,11 @@
+
 .indexbckn{
   background-image: url('../images/projectsbckn.jpg');
+}
+#name{
+  font-size: 100px;
+  font-family: cursive;
+  color: cyan;
+  text-align: center;
+
 }
