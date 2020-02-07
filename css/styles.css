@@ -1,10 +1,10 @@
 
 .indexbckn{
-  background-image: url('../images/projectsbckn.jpg');
+  background-image: url('../images/indexbckn.jpg');
 }
 #name{
-  font-size: 100px;
-  font-family: cursive;
+  font-size: 70px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: cyan;
   text-align: center;
 
@@ -12,20 +12,27 @@
 #subname{
   color: aquamarine;
   font-style: italic;
-  font-size: 50px;
+  font-size: 25px;
   font-family: monospace;
   text-align: center;
 }
 .lnktxt{
   font-style: italic;
   font-size: 20px;
-  color: coral;
+  color: rgb(255, 208, 80);
+}
+a{
+  color: crimson;
 }
 .sidebar{
   float: left;
-  width: 100px;
+  
+  margin: 10px;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 70px;
+  padding-bottom: 30px;
+  border: 10px;
   text-align: center;
-  width: 50%;
-  border: 20px;
-  margin: 50px;
+
 }
