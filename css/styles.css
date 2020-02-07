@@ -9,3 +9,25 @@
   text-align: center;
 
 }
+#subname{
+  color: aquamarine;
+  font-style: italic;
+  font-size: 50px;
+  font-family: monospace;
+}
+.lnktxt{
+  font-style: italic;
+  font-size: 20px;
+  color: coral;
+}
+.column{
+  text-align: center;
+  width: 50%;
+  border: 20px;
+  padding-left: 200px;
+  margin: 50px;
+}
+.sidebar{
+  float: left;
+  width: 100px;
+}
