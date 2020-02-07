@@ -2,16 +2,21 @@
   background-image: url('../images/indexbckn.jpg');
 }
 #name{
-  font-size: 70px;
+ 
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: cyan;
+  color: blue;
   text-align: center;
 }
-
+.justcenter{
+  text-align: center;
+}
+.allign{
+  padding-bottom: 50px;
+}
 #subname{
-  color: aquamarine;
+  color: blue;
   font-style: italic;
-  font-size: 25px;
+  
   font-family: monospace;
   text-align: center;
 }
@@ -30,7 +35,7 @@ a{
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 70px;
-  padding-bottom: 30px;
+  padding-bottom: 5px;
   border: 10px;
   text-align: center;
 
