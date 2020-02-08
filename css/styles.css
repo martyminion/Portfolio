@@ -1,5 +1,6 @@
 .indexbckn{
-  background-image: url('../images/indexbckn.jpg');
+  background-image: url('../images/bodybckn.jpg');
+  background-size: cover;
 }
 #name{
  
