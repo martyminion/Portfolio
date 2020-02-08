@@ -31,8 +31,22 @@
 .educationimg{
   background-image: url('../images/board.jpeg');
   background-size: cover;
-  
-
+}
+.programmimg{
+  background-image: url('../images/programming.jpg');
+  width: 100%;
+  height: 300px;
+}
+.programmimg p{
+  font-size: 20px;
+  font-family: monospace;
+  color: white;
+}
+.programmimg h2{
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+  font-weight: bold;
+  color: crimson;
 }
 ul{
   list-style-type: none;
