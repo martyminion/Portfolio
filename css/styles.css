@@ -7,11 +7,51 @@
   color: blue;
   text-align: center;
 }
+.headerimg{
+  background-image: url('../images/headimg.jpg');
+  background-size: cover;
+}
+.aboutmeimg{
+  background-size: cover;
+  background-image: url('../images/aboutme.jpg');
+}
+.aboutmebckn{
+  background-color: cornflowerblue;
+}
+.aboutmeh{
+  font-size: 30px;
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', serif;
+  color: rgb(255, 208, 80);
+
+}
+.aboutmep{
+  color: crimson;
+}
+.educationimg{
+  background-image: url('../images/board.jpeg');
+  background-size: cover;
+  
+
+}
+ul{
+  list-style-type: none;
+}
 .justcenter{
   text-align: center;
 }
 .allign{
   padding-bottom: 50px;
+  padding-top: 30px;
+}
+.pepruka{
+  float: left;
+}
+.pmg p{
+  background-color:coral;
+}
+.interests2{
+  background-color: cornflowerblue;
 }
 #subname{
   color: blue;
@@ -22,7 +62,7 @@
 }
 .lnktxt{
   font-style: italic;
-  font-size: 20px;
+  font-size: 15px;
   color: rgb(255, 208, 80);
 }
 a{
@@ -35,8 +75,7 @@ a{
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 70px;
-  padding-bottom: 5px;
   border: 10px;
-  text-align: center;
+  text-align: right;
 
 }
