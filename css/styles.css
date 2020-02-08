@@ -11,6 +11,13 @@
   background-image: url('../images/headimg.jpg');
   background-size: cover;
 }
+.headerimg a{
+  padding: 50px;
+  border: solid;
+  border: 5px;
+  border: darkgoldenrod;
+  color: chartreuse;
+}
 .aboutmeimg{
   background-size: cover;
   background-image: url('../images/aboutme.jpg');
@@ -64,8 +71,7 @@ ul{
 }
 .loveimg{
   background-image: url('../images/love.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
 }
 .justcenter{
   text-align: center;
