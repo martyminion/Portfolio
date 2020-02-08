@@ -35,6 +35,9 @@
 .aboutmep{
   color: crimson;
 }
+.aboutmep h3{
+  color: rgb(255, 208, 80);
+}
 .educationimg{
   background-image: url('../images/board.jpeg');
   background-size: cover;
@@ -111,6 +114,7 @@ a{
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 70px;
+  height: 300px;
   border: 10px;
   text-align: right;
 
