@@ -24,7 +24,8 @@
   background-image: url('../images/aboutme.jpg');
 }
 .aboutmebckn{
-  background-color: cornflowerblue;
+  background-image: url('../images/newimg.jpg');
+  background-repeat: no-repeat;
 }
 .aboutmeh{
   font-size: 30px;
@@ -34,7 +35,11 @@
 
 }
 .aboutmep{
-  color: crimson;
+  color: rgb(255, 0, 51);
+}
+.aboutmep p{
+  font-weight: 600;
+  
 }
 .aboutmep h3{
   color: rgb(255, 208, 80);
