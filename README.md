@@ -6,7 +6,7 @@
 It includes a few of my educational conquests and my love for code}
 ## Setup/Installation Requirements
 * You only need a working internet connection
-* A working browser (and you can view the webpage)
+* A working browser (and you can view the webpage) martyminion.github.io/Portfolio
 * Ubuntu / Windows OS
 * Install Git
 * And basic Linux commands
